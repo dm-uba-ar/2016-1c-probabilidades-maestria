@@ -1,9 +1,4 @@
-# Probabilidades (Maestría) — Primer cuatrimestre de 2016
-
-## Equipo docente
-
-- **Clases teóricas:** Susana Sombielle
-- **Clases prácticas:** Alejandra Martínez
+# Probabilidades Maestria — Primer cuatrimestre de 2016
 
 ## Prácticas
 
